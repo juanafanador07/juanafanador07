@@ -1,4 +1,4 @@
-# Hi, I'm jdav07
+# Hi, I'm Juan Afanador
 I am a begginer in HTML, CSS and JS 
 <!--
 **jdav07/jdav07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
