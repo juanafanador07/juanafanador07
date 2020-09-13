@@ -14,8 +14,13 @@
 ## My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/juanafanador07"><img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=juanafanador07&show_icons=true&count_private=true" /></a>
-  <a href="https://github.com/juanafanador07"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanafanador07&layout=compact" /></a>
+  <a href="https://github.com/juanafanador07"><img align="center" src="https://github-readme-stats.vercel.app/api?username=juanafanador07&show_icons=true&count_private=true" /></a>
+</p>
+
+## Most Used Languages
+
+<p align="center">
+  <a href="https://github.com/juanafanador07"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanafanador07&layout=compact" /></a>
 </p>
 
 ##
