@@ -6,9 +6,9 @@
 ## Languages that I have experience with
 
 <p align="center">
-<img alt="HTML" title="HTML" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="60px">
-<img alt="JavaScript" title="JavaScript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="60px">
-<img alt="CSS" title="CSS" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="60px">
+<img alt="HTML" title="HTML" src="https://res.cloudinary.com/juanafanador07/projects/github/readme/html" width="60px">
+<img alt="JavaScript" title="JavaScript" src="https://res.cloudinary.com/juanafanador07/projects/github/readme/javascript" width="60px">
+<img alt="CSS" title="CSS" src="https://res.cloudinary.com/juanafanador07/projects/github/readme/css" width="60px">
 </p>
 
 ## My GitHub Stats
@@ -26,7 +26,6 @@
 ##
 
 <p align="center">
-  <a href="https://codepen.io/juanafanador07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="juanafanador07" height="30" width="30"/></a>
-  <a href="https://twitter.com/juanafanador07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juanafanador07" height="30" width="30"/></a>
-  <a href="https://stackoverflow.com/users/14057523" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14057523" height="30" width="30"/></a>
+  <a href="https://codepen.io/juanafanador07" target="blank"><img align="center" src="https://res.cloudinary.com/juanafanador07/projects/github/readme/codepen" alt="Codepen" height="40" width="40"/></a>
+  <a href="https://stackoverflow.com/users/14057523" target="blank"><img align="center" src="https://res.cloudinary.com/juanafanador07/projects/github/readme/stackoverflow" alt="StackOverflow" height="40" width="40"/></a>
 </p>
